@@ -277,9 +277,6 @@ export const useAuthStore = defineStore('auth', {
 ```
 
 ---
-Great! Let’s continue with **detailed instructions for feature implementations**, focusing on the advanced functionality you requested, including trading, inventory management, admin logging, and state handling.
-
----
 
 ## **Step 4: Backend Feature Implementations**
 
